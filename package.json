@@ -1,6 +1,6 @@
 {
     "homepage": "https://tuyenvan-dev.github.io/my_portfolio/",
-    "name": "react-portfolio",
+    "name": "my_portfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
