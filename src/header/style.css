@@ -33,11 +33,31 @@
     height: 50px;
     font-weight: bold;
     z-index: 1000;
+    width: 50%;
+    text-align: left;
+}
+
+.nav_btn {
+    padding: 5px 15px;
+    margin: 0;
+    border: unset;
+    background: var(--primary-color);
+    font-size: 1.25rem;
+    font-family: 'Roboto', sans-serif;
+    color: var(--text-color-2);
+    line-height: 2;
+    height: 50px;
+    font-weight: bold;
+    z-index: 1000;
 }
 
 .nav_ac:hover {
     color: var(--text-color-2);
 }
+
+ .nav_btn {
+    width: 50%;
+ }
 
 .br-top,
 .br-bottom,
